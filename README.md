@@ -85,7 +85,9 @@ Módulos concluídos:
 
 ## 📁 Projetos
 
-> Em construção — projetos práticos de pentest, análise de tráfego e automação sendo adicionados em breve.
+| Repositório | Descrição |
+|-------------|-----------|
+| [tcp-ip-labs](https://github.com/mfreitas-sec/tcp-ip-labs) | Network forensics & traffic analysis — Wireshark, tcpdump, file carving |
 
 ---
 
